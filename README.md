@@ -46,7 +46,8 @@
     <img alt="SAPUI5" src="https://img.shields.io/badge/SAPUI5-007A8D?style=for-the-badge&logo=sap&logoColor=white"/>
     <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
     <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-1D89F0?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FCA121?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FCA121?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img alt="SAP BTP" src="https://img.shields.io/badge/SAP%20BTP-0FAF2A?style=for-the-badge&logo=sap&logoColor=white"/>
   </a>
 </p>
 
